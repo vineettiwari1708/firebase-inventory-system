@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#inventory-list div {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+input {
+  margin: 5px;
+}
+button {
+  margin: 5px;
+  padding: 8px 12px;
+}
