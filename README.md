@@ -38,3 +38,8 @@ No PHP or MySQL needed — Firebase handles Auth + Database
 No backend server needed
 
 Make sure your Hostinger hosting is for static or JS-supported files, not just WordPress
+
+npm install -g firebase-tools
+firebase login
+firebase init hosting
+firebase deploy
